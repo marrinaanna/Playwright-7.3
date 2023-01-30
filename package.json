@@ -1,0 +1,17 @@
+{
+  "name": "73",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NetologyTest.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "playwright"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
